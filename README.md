@@ -28,3 +28,5 @@ Streamlines inventory management, reducing errors and operational costs.
 Supports SMEs in transitioning towards Industry 4.0 by providing a scalable and affordable solution.
 Enables real-time decision-making through data-driven insights.
 This system not only addresses the current inefficiencies in inventory management but also aligns with the global push towards sustainable and smart manufacturing practices. With a focus on accessibility and affordability, it empowers SMEs to compete effectively in an increasingly digitalized market.
+
+You can begin committing to the repository based on the pseudocode provided. Share with your colleagues to contribute by their expertise.
